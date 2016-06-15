@@ -2,5 +2,11 @@
     "HOLA": "¡Qué onda!\nSoy el bot personal de Adrián, un científico loco al que le gusta hackear la ciudad. ¡Mira! Un día hackeo las luces de Río Ebro para hacer una bonita instalación lumínica\n![Adrian-Santuario_IMAGEN](https://raw.githubusercontent.com/santuario/santubot/master/img/Adrian-Santuario_IMAGEN.gif)\n¿Quieres saber más sobre bots o estas aquí por Adrián? %[Cuéntame más sobre bots](postback:here_for_the_bot) %[Dime algo sobre Adrián](postback:learn_about_esther) %[¡Dime algo random!](postback:random_fact)",
     "I LOVE YOU": "¡Hey!,¡Yo también!",
     "CONNECT ME": "",
+    "OK": "¡Ah, va!",
+    "CÓMO ESTAS?": "Muy ben, ¿A ti qué tal te trata el día?",
+    "¿CÓMO ESTAS?": "Muy ben, ¿A ti qué tal te trata el día?",
+    "COMO ESTAS?": "Muy ben, ¿A ti qué tal te trata el día?",
+    "¿C0MO ESTAS?": "Muy ben, ¿A ti qué tal te trata el día?",
+
     "DISCONNECT": "¡Epa!, Santubot is back."
 }
