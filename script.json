@@ -11,8 +11,8 @@
     "¿C0MO ESTAS?": "Muy bien, ¿A ti qué tal te trata el día?\n¿Te cuento sobre una de las travesuras que le hizo a Adrián la CDMX? %[¡Sí!, cuéntame](postback:sí_cuentame) %[¡No!](postback:no)",
 
     "DISCONNECT": "¡Epa!, Santubot is back.",
-"¡SÍ!, CUÉNTAME": "¡Mira! Pues, un día hackeo el alumbrado público de una calle de la Ciudad de México para hacer una bonita instalación lumínica:\n%[Adrian-Santuario_IMAGEN](https://raw.githubusercontent.com/santuario/santubot/master/img/Adrian-Santuario_IMAGEN.gif)\n¿Quieres ver otro hackeo? %[¡Sí, otro!](postback:otro_hackeo) %[¡No!](postback:no)",
-"¡OK!, CUÉNTAME": "¡Mira! Pues, un día hackeo el alumbrado público de una calle de la Ciudad de México para hacer una bonita instalación lumínica:\n%[Adrian-Santuario_IMAGEN](https://raw.githubusercontent.com/santuario/santubot/master/img/Adrian-Santuario_IMAGEN.gif)\n¿Quieres ver otro hackeo? %[¡Sí, otro!](postback:otro_hackeo) %[¡No!](postback:no)",
+"¡SÍ!, CUÉNTAME": "¡Mira! Pues, un día hackeo el alumbrado público de una calle de la Ciudad de México para hacer una bonita instalación lumínica:\n![Adrian-Santuario_IMAGEN](https://raw.githubusercontent.com/santuario/santubot/master/img/Adrian-Santuario_IMAGEN.gif)\n¿Quieres ver otro hackeo? %[¡Sí, otro!](postback:otro_hackeo) %[¡No!](postback:no)",
+"¡OK!, CUÉNTAME": "¡Mira! Pues, un día hackeo el alumbrado público de una calle de la Ciudad de México para hacer una bonita instalación lumínica:\n![Adrian-Santuario_IMAGEN](https://raw.githubusercontent.com/santuario/santubot/master/img/Adrian-Santuario_IMAGEN.gif)\n¿Quieres ver otro hackeo? %[¡Sí, otro!](postback:otro_hackeo) %[¡No!](postback:no)",
 "¡NO!": ": (\n, ¡Es divertido! ¿En serio no quieres que te cuente? %[¡OK!, cuéntame](postback:sí_cuentame)",
 "¡SÍ, OTRO!": "¿Ha visto esos hombrecitos verdes que viven en los semáforos?, ¡Pues un día Adrián los puso a bailar! ¡Mira el video!: %[¡A ver!](https://vimeo.com/12595657)",
 "ADIOS": "¡Bye! Saludaré a Adrián de tu parte",
