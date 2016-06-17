@@ -1,12 +1,20 @@
  {
-    "HOLA": "¡Qué onda!\nSoy el bot personal de Adrián, un científico loco al que le gusta hackear la ciudad. ¡Mira! Un día hackeo las luces de Río Ebro para hacer una bonita instalación lumínica\n![Adrian-Santuario_IMAGEN](https://raw.githubusercontent.com/santuario/santubot/master/img/Adrian-Santuario_IMAGEN.gif)\n¿Quieres saber más sobre bots o estas aquí por Adrián? %[Cuéntame más sobre bots](postback:here_for_the_bot) %[Dime algo sobre Adrián](postback:learn_about_esther) %[¡Dime algo random!](postback:random_fact)",
+    "HOLA": "¡Qué onda!\nSoy el bot personal de Adrián, un científico loco al que le gusta hackear la ciudad.\n¿Te cuento sobre una de las travesuras que le hizo a la CDMX? %[¡Sí!, cuéntame](postback:sí_cuentame) %[¡No!](postback:no)",
+ "HOLA SANTUBOT": "¡Qué onda!\nSoy el bot personal de Adrián, un científico loco al que le gusta hackear la ciudad.\n¿Te cuento sobre una de las travesuras que le hizo a la CDMX? %[¡Sí!, cuéntame](postback:sí_cuentame) %[¡No!](postback:no)",
+ "HOLA ADRIÁN": "¡Qué onda!\nSoy el bot personal de Adrián, un científico loco al que le gusta hackear la ciudad.\n¿Te cuento sobre una de las travesuras que le hizo a la CDMX? %[¡Sí!, cuéntame](postback:sí_cuentame) %[¡No!](postback:no)",
     "I LOVE YOU": "¡Hey!,¡Yo también!",
     "CONNECT ME": "",
     "OK": "¡Ah, va!",
-    "CÓMO ESTAS?": "Muy ben, ¿A ti qué tal te trata el día?",
-    "¿CÓMO ESTAS?": "Muy ben, ¿A ti qué tal te trata el día?",
-    "COMO ESTAS?": "Muy ben, ¿A ti qué tal te trata el día?",
-    "¿C0MO ESTAS?": "Muy ben, ¿A ti qué tal te trata el día?",
+    "CÓMO ESTAS?": "Muy bien, ¿A ti qué tal te trata el día?\n¿Te cuento sobre una de las travesuras que le hizo Adrián a la CDMX? %[¡Sí!, cuéntame](postback:sí_cuentame) %[¡No!](postback:no)",
+    "¿CÓMO ESTAS?": "Muy bien, ¿A ti qué tal te trata el día?\n¿Te cuento sobre una de las travesuras que le hizo Adrián a la CDMX? %[¡Sí!, cuéntame](postback:sí_cuentame) %[¡No!](postback:no)",
+    "COMO ESTAS?": "Muy bien, ¿A ti qué tal te trata el día?\n¿Te cuento sobre una de las travesuras que le hizo a Adrián la CDMX? %[¡Sí!, cuéntame](postback:sí_cuentame) %[¡No!](postback:no)",
+    "¿C0MO ESTAS?": "Muy bien, ¿A ti qué tal te trata el día?\n¿Te cuento sobre una de las travesuras que le hizo a Adrián la CDMX? %[¡Sí!, cuéntame](postback:sí_cuentame) %[¡No!](postback:no)",
 
-    "DISCONNECT": "¡Epa!, Santubot is back."
+    "DISCONNECT": "¡Epa!, Santubot is back.",
+"¡SÍ!, CUÉNTAME": "¡Mira! Pues, un día hackeo el alumbrado público de una calle de la Ciudad de México para hacer una bonita instalación lumínica:\n[Adrian-Santuario_IMAGEN](https://raw.githubusercontent.com/santuario/santubot/master/img/Adrian-Santuario_IMAGEN.gif)\n¿Quieres ver otro hackeo? %[¡Sí, otro!](postback:otro_hackeo) %[¡No!](postback:no)",
+"¡OK!, CUÉNTAME": "¡Mira! Pues, un día hackeo el alumbrado público de una calle de la Ciudad de México para hacer una bonita instalación lumínica:\n[Adrian-Santuario_IMAGEN](https://raw.githubusercontent.com/santuario/santubot/master/img/Adrian-Santuario_IMAGEN.gif)\n¿Quieres ver otro hackeo? %[¡Sí, otro!](postback:otro_hackeo) %[¡No!](postback:no)",
+"¡NO!": ": (, ¡Es divertido! ¿En serio no quieres que te cuente? %[¡OK!, cuéntame](postback:sí_cuentame)",
+"¡SÍ, OTRO!": "¿Ha visto esos hombrecitos verdes que viven en los semáforos?, ¡Pues un día Adrián los puso a bailar! ¡Mira el video!: %[¡A ver!](https://vimeo.com/12595657)",
+"ADIOS": "¡Bye! Saludaré a Adrián de tu parte",
+"BYE": "¡Chau! Saludaré a Adrián de tu parte"
 }
